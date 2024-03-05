@@ -1,0 +1,959 @@
+[
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ tư, ngày 18 tháng 8",
+        "thoi_gian": "18:25",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "19:25",
+        "thanh_pho": "Lusaka",
+        "thanh_pho_short_name": "LUN",
+        "quoc_gia": "Zambia"
+      },
+      "hang_hang_khong": {
+        "ten": "Qatar Airways",
+        "ma_so_chuyen_bay": "QR1456"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*23kg (2 kiện ký gửi, mỗi kiện 23kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "404.73 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "605.43 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ tư, ngày 18 tháng 8",
+        "thoi_gian": "18:25",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "19:25",
+        "thanh_pho": "Lusaka",
+        "thanh_pho_short_name": "LUN",
+        "quoc_gia": "Zambia"
+      },
+      "hang_hang_khong": {
+        "ten": "Qatar Airways",
+        "ma_so_chuyen_bay": "QR1456"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*23kg (2 kiện ký gửi, mỗi kiện 23kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "404.73 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "605.43 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ năm, ngày 19 tháng 8",
+        "thoi_gian": "19:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "20:30",
+        "thanh_pho": "Nairobi",
+        "thanh_pho_short_name": "NBO",
+        "quoc_gia": "Kenya"
+      },
+      "hang_hang_khong": {
+        "ten": "Emirates",
+        "ma_so_chuyen_bay": "EK202"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "520.15 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "750.60 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ sáu, ngày 20 tháng 8",
+        "thoi_gian": "21:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "22:45",
+        "thanh_pho": "Addis Ababa",
+        "thanh_pho_short_name": "ADD",
+        "quoc_gia": "Ethiopia"
+      },
+      "hang_hang_khong": {
+        "ten": "Ethiopian Airlines",
+        "ma_so_chuyen_bay": "ET789"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*25kg (1 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "490.90 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "710.25 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ bảy, ngày 21 tháng 8",
+        "thoi_gian": "12:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "14:15",
+        "thanh_pho": "Johannesburg",
+        "thanh_pho_short_name": "JNB",
+        "quoc_gia": "South Africa"
+      },
+      "hang_hang_khong": {
+        "ten": "South African Airways",
+        "ma_so_chuyen_bay": "SA456"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*20kg (2 kiện ký gửi, mỗi kiện 20kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.50 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "800.75 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Chủ nhật, ngày 22 tháng 8",
+        "thoi_gian": "16:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "18:00",
+        "thanh_pho": "Windhoek",
+        "thanh_pho_short_name": "WDH",
+        "quoc_gia": "Namibia"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Namibia",
+        "ma_so_chuyen_bay": "SW222"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "480.50 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "690.20 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ hai, ngày 23 tháng 8",
+        "thoi_gian": "08:00",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "09:30",
+        "thanh_pho": "Gaborone",
+        "thanh_pho_short_name": "GBE",
+        "quoc_gia": "Botswana"
+      },
+      "hang_hang_khong": {
+        "ten": "Botswana Airways",
+        "ma_so_chuyen_bay": "BA111"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "540.80 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "780.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ ba, ngày 24 tháng 8",
+        "thoi_gian": "14:20",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "15:50",
+        "thanh_pho": "Luanda",
+        "thanh_pho_short_name": "LAD",
+        "quoc_gia": "Angola"
+      },
+      "hang_hang_khong": {
+        "ten": "TAAG Angola Airlines",
+        "ma_so_chuyen_bay": "DT701"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "495.30 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "720.45 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ tư, ngày 25 tháng 8",
+        "thoi_gian": "20:10",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "21:40",
+        "thanh_pho": "Maputo",
+        "thanh_pho_short_name": "MPM",
+        "quoc_gia": "Mozambique"
+      },
+      "hang_hang_khong": {
+        "ten": "LAM Mozambique Airlines",
+        "ma_so_chuyen_bay": "TM432"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*20kg (2 kiện ký gửi, mỗi kiện 20kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "535.60 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "780.20 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ năm, ngày 26 tháng 8",
+        "thoi_gian": "12:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "13:45",
+        "thanh_pho": "Dar es Salaam",
+        "thanh_pho_short_name": "DAR",
+        "quoc_gia": "Tanzania"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Tanzania",
+        "ma_so_chuyen_bay": "TC567"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.90 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "790.10 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ sáu, ngày 27 tháng 8",
+        "thoi_gian": "18:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "20:15",
+        "thanh_pho": "Antananarivo",
+        "thanh_pho_short_name": "TNR",
+        "quoc_gia": "Madagascar"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Madagascar",
+        "ma_so_chuyen_bay": "MD876"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "500.25 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "730.40 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ bảy, ngày 28 tháng 8",
+        "thoi_gian": "10:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "12:00",
+        "thanh_pho": "Kigali",
+        "thanh_pho_short_name": "KGL",
+        "quoc_gia": "Rwanda"
+      },
+      "hang_hang_khong": {
+        "ten": "RwandAir",
+        "ma_so_chuyen_bay": "WB321"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*25kg (1 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "480.80 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "700.15 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Chủ nhật, ngày 29 tháng 8",
+        "thoi_gian": "16:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "17:45",
+        "thanh_pho": "Maseru",
+        "thanh_pho_short_name": "MSU",
+        "quoc_gia": "Lesotho"
+      },
+      "hang_hang_khong": {
+        "ten": "Lesotho Airways",
+        "ma_so_chuyen_bay": "LT432"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*20kg (2 kiện ký gửi, mỗi kiện 20kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "540.60 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "780.80 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ hai, ngày 30 tháng 8",
+        "thoi_gian": "08:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "10:15",
+        "thanh_pho": "Victoria",
+        "thanh_pho_short_name": "SEZ",
+        "quoc_gia": "Seychelles"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Seychelles",
+        "ma_so_chuyen_bay": "HM543"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "520.40 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "750.70 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ ba, ngày 31 tháng 8",
+        "thoi_gian": "14:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "16:00",
+        "thanh_pho": "Port Louis",
+        "thanh_pho_short_name": "MRU",
+        "quoc_gia": "Mauritius"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Mauritius",
+        "ma_so_chuyen_bay": "MK789"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.90 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "790.15 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ tư, ngày 1 tháng 9",
+        "thoi_gian": "17:00",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "18:30",
+        "thanh_pho": "Mahe",
+        "thanh_pho_short_name": "SEZ",
+        "quoc_gia": "Seychelles"
+      },
+      "hang_hang_khong": {
+        "ten": "Seychelles International Airways",
+        "ma_so_chuyen_bay": "SI345"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "525.60 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "760.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ năm, ngày 2 tháng 9",
+        "thoi_gian": "11:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "13:15",
+        "thanh_pho": "Antananarivo",
+        "thanh_pho_short_name": "`TNR",
+        "quoc_gia": "Madagascar"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Madagascar",
+        "ma_so_chuyen_bay": "MD789"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*20kg (2 kiện ký gửi, mỗi kiện 20kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "545.20 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "785.50 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ sáu, ngày 3 tháng 9",
+        "thoi_gian": "19:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "21:00",
+        "thanh_pho": "Harare",
+        "thanh_pho_short_name": "HRE",
+        "quoc_gia": "Zimbabwe"
+      },
+      "hang_hang_khong": {
+        "ten": "Air Zimbabwe",
+        "ma_so_chuyen_bay": "AZ456"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "510.80 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "740.10 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ bảy, ngày 4 tháng 9",
+        "thoi_gian": "14:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "15:45",
+        "thanh_pho": "Luanda",
+        "thanh_pho_short_name": "LAD",
+        "quoc_gia": "Angola"
+      },
+      "hang_hang_khong": {
+        "ten": "TAAG Angola Airlines",
+        "ma_so_chuyen_bay": "DT701"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.90 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "790.15 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Chủ nhật, ngày 5 tháng 9",
+        "thoi_gian": "10:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "12:15",
+        "thanh_pho": "Nairobi",
+        "thanh_pho_short_name": "NBO",
+        "quoc_gia": "Kenya"
+      },
+      "hang_hang_khong": {
+        "ten": "Kenya Airways",
+        "ma_so_chuyen_bay": "KQ567"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "530.40 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "765.70 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ hai, ngày 6 tháng 9",
+        "thoi_gian": "18:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "20:00",
+        "thanh_pho": "Lusaka",
+        "thanh_pho_short_name": "LUN",
+        "quoc_gia": "Zambia"
+      },
+      "hang_hang_khong": {
+        "ten": "Zambia Airways",
+        "ma_so_chuyen_bay": "ZA432"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "560.90 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "805.20 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ ba, ngày 7 tháng 9",
+        "thoi_gian": "14:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "15:45",
+        "thanh_pho": "Windhoek",
+        "thanh_pho_short_name": "WDH",
+        "quoc_gia": "Namibia"
+      },
+      "hang_hang_khong": {
+        "ten": "Namibia Air",
+        "ma_so_chuyen_bay": "NA678"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "540.50 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "780.80 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ tư, ngày 8 tháng 9",
+        "thoi_gian": "20:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "22:00",
+        "thanh_pho": "Gaborone",
+        "thanh_pho_short_name": "GBE",
+        "quoc_gia": "Botswana"
+      },
+      "hang_hang_khong": {
+        "ten": "Botswana Airways",
+        "ma_so_chuyen_bay": "BA789"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "560.60 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "805.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ năm, ngày 9 tháng 9",
+        "thoi_gian": "09:00",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "10:30",
+        "thanh_pho": "Bujumbura",
+        "thanh_pho_short_name": "BJM",
+        "quoc_gia": "Burundi"
+      },
+      "hang_hang_khong": {
+        "ten": "Burundi Air",
+        "ma_so_chuyen_bay": "BU456"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "520.70 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "750.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ sáu, ngày 10 tháng 9",
+        "thoi_gian": "16:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "18:15",
+        "thanh_pho": "Libreville",
+        "thanh_pho_short_name": "LBV",
+        "quoc_gia": "Gabon"
+      },
+      "hang_hang_khong": {
+        "ten": "Gabon Airlines",
+        "ma_so_chuyen_bay": "GA567"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.80 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "790.10 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ bảy, ngày 11 tháng 9",
+        "thoi_gian": "12:30",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "14:00",
+        "thanh_pho": "Abidjan",
+        "thanh_pho_short_name": "ABJ",
+        "quoc_gia": "Ivory Coast"
+      },
+      "hang_hang_khong": {
+        "ten": "Ivory Coast Airways",
+        "ma_so_chuyen_bay": "IC345"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "530.40 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "765.70 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Chủ nhật, ngày 12 tháng 9",
+        "thoi_gian": "18:15",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "19:45",
+        "thanh_pho": "N'Djamena",
+        "thanh_pho_short_name": "NDJ",
+        "quoc_gia": "Chad"
+      },
+      "hang_hang_khong": {
+        "ten": "Chad Airways",
+        "ma_so_chuyen_bay": "CD678"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "560.60 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "805.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ hai, ngày 13 tháng 9",
+        "thoi_gian": "10:00",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "11:30",
+        "thanh_pho": "Niamey",
+        "thanh_pho_short_name": "NIM",
+        "quoc_gia": "Niger"
+      },
+      "hang_hang_khong": {
+        "ten": "Niger Air",
+        "ma_so_chuyen_bay": "NA345"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Pho thong",
+        "muc_luong_hanh_ly": "1*30kg (1 kiện ký gửi, mỗi kiện 30kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "520.70 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "750.90 USD/người lớn"
+          }
+        }
+      }
+    }
+  },
+  {
+    "chuyen_bay": {
+      "khoi_hanh": {
+        "ngay": "Thứ ba, ngày 14 tháng 9",
+        "thoi_gian": "15:45",
+        "thanh_pho": "Ho Chi Minh City",
+        "thanh_pho_short_name": "SGN",
+        "quoc_gia": "Vietnam"
+      },
+      "den": {
+        "thoi_gian": "17:15",
+        "thanh_pho": "Bamako",
+        "thanh_pho_short_name": "BKO",
+        "quoc_gia": "Mali"
+      },
+      "hang_hang_khong": {
+        "ten": "Mali Airways",
+        "ma_so_chuyen_bay": "ML567"
+      },
+      "chi_tiet_them": {
+        "hang_ghe": "Thuong gia",
+        "muc_luong_hanh_ly": "2*25kg (2 kiện ký gửi, mỗi kiện 25kg)",
+        "lua_chon_ve": {
+          "Ve_tieu_chuan": {
+            "gia": "550.80 USD/người lớn"
+          },
+          "Ve_linh_hoat": {
+            "gia": "790.10 USD/người lớn"
+          }
+        }
+      }
+    }
+  }
+]
